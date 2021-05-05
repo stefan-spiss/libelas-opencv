@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# build directories
+build
+build-debug
+debug
+build*
+
+# intellij
+.idea
+cmake-build-debug
+
+# YCM
+.ycm_extra_conf.py
+
+# Result images
+img/*_disp.pgm
+
+# matlab
+*.mexa64
+
+# ccls files
+compile_commands.json

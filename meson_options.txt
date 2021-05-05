@@ -1,0 +1,2 @@
+option('elas_profiler', type : 'boolean', value : false)
+
